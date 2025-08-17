@@ -1,0 +1,17 @@
+beautifulsoup4
+duckdb
+fastapi
+httpx
+lxml
+matplotlib
+networkx
+numpy
+pandas
+seaborn
+playwright
+playwright-stealth
+python-dotenv
+python-multipart
+requests
+tabula-py
+uvicorn
